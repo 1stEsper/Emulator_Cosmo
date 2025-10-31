@@ -17,8 +17,8 @@ Emulator_Cosmo is a machine learning-based emulator for the Halo Mass Function (
 ## Installation
 
 ### Using Conda environment (recommended)
-- `conda env create -f environment.yml`
-- `conda activate environment_name`
+- ```conda env create -f environment.yml```
+- ```conda activate environment_name```
 
 
 ## Usage
